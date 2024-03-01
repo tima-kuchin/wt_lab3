@@ -1,0 +1,24 @@
+.sidebar {
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+    min-height: 600px;
+  }
+
+.navSidebarMenu {
+  padding: 10px 20px;
+  list-style: none;
+}
+
+.navSidebarMenu > .navSidebarItem {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 24px;
+  border-bottom: 1px solid #000;
+  padding-bottom: 10px;
+}
+
+.navSidebarMenu > .navSidebarItem:hover {
+  border-bottom: 1px solid #cacaca;
+  color: #cacaca;
+}

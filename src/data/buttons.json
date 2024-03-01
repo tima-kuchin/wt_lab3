@@ -1,0 +1,12 @@
+[
+    {
+        "key": 1,
+        "id": "mainPage",
+        "label": "Главная"
+    },
+    {
+        "key": 2,
+        "id": "aboutMe",
+        "label": "Обо мне"
+    }
+  ]

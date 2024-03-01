@@ -1,0 +1,40 @@
+button {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    background: none;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    outline: none;
+  }
+
+.headerButton {
+    padding: 15px 10px;
+    margin: 0 10px;
+    font-size: 18px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    min-width: 120px;
+}
+
+.headerButton:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.sidebarButton {
+    padding: 15px 10px;
+    width: 100%;
+    margin: 5px 0px;
+    font-size: 14px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    min-width: 120px;
+}
+
+.sidebarButton:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}

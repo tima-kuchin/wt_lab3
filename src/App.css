@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: "Open Sans";
+  }
+
+.row:not(:last-child) {
+  margin-bottom: 10px;
+}
